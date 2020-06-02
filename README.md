@@ -1,5 +1,5 @@
- <p align="center"<p align="center"<p align="center"<p align="center">
-  <img src="banner1.png" >
+<p align="center">
+  <img src="banner.png" >
 </p>
 
 # João Filipe Axer Batista
