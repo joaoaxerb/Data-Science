@@ -14,7 +14,12 @@ Majoring in Control and Automation Engineering, class of 2022, I have previous e
 * [Medium](https://www.medium.com)
 
 
-## Projetos:
+## Projects:
+* [Analysis of violence in Rio de Janeiro (Portuguese](https://github.com/joaoaxerb/Data-Science/blob/master/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
+* [Analysis of AirBnB in Tokyo (Portuguese](https://github.com/joaoaxerb/Data-Science/blob/master/Analisando_os_Dados_do_Airbnb_Tokyo.ipynb)
+*[Analysis of AirBnB in Tokyo (Portuguese](https://github.com/joaoaxerb/Data-Science/blob/master/Analisando_os_Dados_do_Airbnb_Tokyo.ipynb)
+*[COVID-19 Analysis - Brazil and World (Portuguese)](https://github.com/joaoaxerb/Data-Science/blob/master/Estudo_de_caso_covid.ipynb)
+*[Machine Learning - Fraud Detection in Online transactions (English)](https://github.com/joaoaxerb/Data-Science/blob/master/CreditCardFrauds.ipynb)
 
 
 ---
